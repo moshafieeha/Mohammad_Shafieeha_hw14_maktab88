@@ -1,0 +1,32 @@
+div{
+    background-color: rgb(200, 214, 255);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+/* table */
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  td,
+  th {
+    border: 1px solid #000;
+    text-align: left;
+    padding: 8px;
+  }
+  
+  th {
+    background-color: #000;
+    color: #fefefe;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #dddddd;
+  }

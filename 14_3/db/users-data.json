@@ -1,0 +1,22 @@
+[
+  {
+    "firstname": "john",
+    "lastname": "smith",
+    "username": "john_smith",
+    "password": "user1234",
+    "gender": "male"
+  },
+  {
+    "firstname": "john",
+    "lastname": "smith",
+    "username": "0o",
+    "password": "user1234",
+    "gender": "male"
+  },
+  {
+    "lastname": "smith",
+    "username": "0o",
+    "password": "user1234",
+    "gender": "male"
+  }
+]
